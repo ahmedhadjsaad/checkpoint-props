@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/checkpoint-props.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/checkpoint-props.git/static/js/main.bea0b97a.chunk.js",
+    "main.js.map": "/checkpoint-props.git/static/js/main.bea0b97a.chunk.js.map",
+    "runtime-main.js": "/checkpoint-props.git/static/js/runtime-main.2b614ae7.js",
+    "runtime-main.js.map": "/checkpoint-props.git/static/js/runtime-main.2b614ae7.js.map",
+    "static/js/2.cd713e5b.chunk.js": "/checkpoint-props.git/static/js/2.cd713e5b.chunk.js",
+    "static/js/2.cd713e5b.chunk.js.map": "/checkpoint-props.git/static/js/2.cd713e5b.chunk.js.map",
+    "index.html": "/checkpoint-props.git/index.html",
+    "precache-manifest.96271238d5d0651e502c7fe86bd69c2f.js": "/checkpoint-props.git/precache-manifest.96271238d5d0651e502c7fe86bd69c2f.js",
+    "service-worker.js": "/checkpoint-props.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/checkpoint-props.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cd713e5b.chunk.js.LICENSE.txt": "/checkpoint-props.git/static/js/2.cd713e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b614ae7.js",
+    "static/js/2.cd713e5b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bea0b97a.chunk.js"
+  ]
+}
